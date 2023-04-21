@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" modified="2023-04-21T18:38:46.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3cMSVy6i79VwKL6Gm9eS" version="21.2.1" type="google">
+<mxfile host="app.diagrams.net" modified="2023-04-21T18:40:58.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="PpZk_fPNKvw2CnWRKRQE" version="21.2.1" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="2900" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LLYCRhnWDws5jUGN6ohz-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ud_qaL1iLHrHZvnpaBdS-13" target="ud_qaL1iLHrHZvnpaBdS-20">
+        <mxCell id="LLYCRhnWDws5jUGN6ohz-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ud_qaL1iLHrHZvnpaBdS-13" target="ud_qaL1iLHrHZvnpaBdS-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LLYCRhnWDws5jUGN6ohz-30" value="информация изменена" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LLYCRhnWDws5jUGN6ohz-28">
+        <mxCell id="LLYCRhnWDws5jUGN6ohz-30" value="информация изменена" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LLYCRhnWDws5jUGN6ohz-28" vertex="1" connectable="0">
           <mxGeometry x="0.2028" y="3" relative="1" as="geometry">
             <mxPoint x="-14" y="-12" as="offset" />
           </mxGeometry>
@@ -16,7 +15,7 @@
         <mxCell id="ud_qaL1iLHrHZvnpaBdS-13" value="Изменение информации о рейсе" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-319" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LLYCRhnWDws5jUGN6ohz-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ud_qaL1iLHrHZvnpaBdS-20" target="ud_qaL1iLHrHZvnpaBdS-23">
+        <mxCell id="LLYCRhnWDws5jUGN6ohz-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ud_qaL1iLHrHZvnpaBdS-20" target="ud_qaL1iLHrHZvnpaBdS-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="140" y="-50" />
@@ -24,7 +23,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LLYCRhnWDws5jUGN6ohz-32" value="отзывы обработаны" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LLYCRhnWDws5jUGN6ohz-31">
+        <mxCell id="LLYCRhnWDws5jUGN6ohz-32" value="отзывы обработаны" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LLYCRhnWDws5jUGN6ohz-31" vertex="1" connectable="0">
           <mxGeometry x="0.2236" y="-1" relative="1" as="geometry">
             <mxPoint x="-17" y="-16" as="offset" />
           </mxGeometry>
@@ -125,14 +124,8 @@
         <mxCell id="ud_qaL1iLHrHZvnpaBdS-83" value="Ремонт" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="-250" width="138" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="ud_qaL1iLHrHZvnpaBdS-92" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ud_qaL1iLHrHZvnpaBdS-88" target="ud_qaL1iLHrHZvnpaBdS-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1024" y="390" />
-              <mxPoint x="460" y="390" />
-              <mxPoint x="460" y="-50" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="O0DaFBBtMMYf6R2Q3__b-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ud_qaL1iLHrHZvnpaBdS-88" target="O0DaFBBtMMYf6R2Q3__b-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ud_qaL1iLHrHZvnpaBdS-88" value="Отмена рейса" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="955" y="221" width="138" height="62.5" as="geometry" />
@@ -182,13 +175,13 @@
             <mxPoint x="59" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LLYCRhnWDws5jUGN6ohz-3" value="Отправка автобуса по маршруту" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="LLYCRhnWDws5jUGN6ohz-3" value="Отправка автобуса по маршруту" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="80" y="265" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LLYCRhnWDws5jUGN6ohz-4" value="&amp;nbsp; do / Ехать по маршруту&lt;br&gt;&amp;nbsp; do / Проверить билеты" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="LLYCRhnWDws5jUGN6ohz-3">
+        <mxCell id="LLYCRhnWDws5jUGN6ohz-4" value="&amp;nbsp; do / Ехать по маршруту&lt;br&gt;&amp;nbsp; do / Проверить билеты" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="LLYCRhnWDws5jUGN6ohz-3" vertex="1">
           <mxGeometry y="30" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LLYCRhnWDws5jUGN6ohz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LLYCRhnWDws5jUGN6ohz-15" target="LLYCRhnWDws5jUGN6ohz-20">
+        <mxCell id="LLYCRhnWDws5jUGN6ohz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="LLYCRhnWDws5jUGN6ohz-15" target="LLYCRhnWDws5jUGN6ohz-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-60" y="416.25" as="sourcePoint" />
             <mxPoint x="-257.91999999999985" y="339.8799999999999" as="targetPoint" />
@@ -198,56 +191,56 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LLYCRhnWDws5jUGN6ohz-14" value="согласие" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" vertex="1" connectable="0" parent="LLYCRhnWDws5jUGN6ohz-13">
+        <mxCell id="LLYCRhnWDws5jUGN6ohz-14" value="согласие" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" parent="LLYCRhnWDws5jUGN6ohz-13" vertex="1" connectable="0">
           <mxGeometry x="0.2677" y="4" relative="1" as="geometry">
             <mxPoint x="74" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LLYCRhnWDws5jUGN6ohz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.499;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LLYCRhnWDws5jUGN6ohz-4" target="LLYCRhnWDws5jUGN6ohz-15">
+        <mxCell id="LLYCRhnWDws5jUGN6ohz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.499;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="LLYCRhnWDws5jUGN6ohz-4" target="LLYCRhnWDws5jUGN6ohz-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="78" y="416.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LLYCRhnWDws5jUGN6ohz-12" value="билеты не у всех" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" vertex="1" connectable="0" parent="1">
+        <mxCell id="LLYCRhnWDws5jUGN6ohz-12" value="билеты не у всех" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="150.00131400069102" y="405" as="geometry" />
         </mxCell>
-        <mxCell id="LLYCRhnWDws5jUGN6ohz-17" value="несогласие" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LLYCRhnWDws5jUGN6ohz-15" target="LLYCRhnWDws5jUGN6ohz-16">
+        <mxCell id="LLYCRhnWDws5jUGN6ohz-17" value="несогласие" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LLYCRhnWDws5jUGN6ohz-15" target="LLYCRhnWDws5jUGN6ohz-16" edge="1">
           <mxGeometry x="0.0303" y="49" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LLYCRhnWDws5jUGN6ohz-15" value="Предложение купить билет" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LLYCRhnWDws5jUGN6ohz-15" value="Предложение купить билет" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-58" y="395" width="138" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="LLYCRhnWDws5jUGN6ohz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LLYCRhnWDws5jUGN6ohz-16" target="LLYCRhnWDws5jUGN6ohz-20">
+        <mxCell id="LLYCRhnWDws5jUGN6ohz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="LLYCRhnWDws5jUGN6ohz-16" target="LLYCRhnWDws5jUGN6ohz-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LLYCRhnWDws5jUGN6ohz-16" value="Высадка пассажира" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LLYCRhnWDws5jUGN6ohz-16" value="Высадка пассажира" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-58" y="540" width="138" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="LLYCRhnWDws5jUGN6ohz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LLYCRhnWDws5jUGN6ohz-18" target="ud_qaL1iLHrHZvnpaBdS-13">
+        <mxCell id="LLYCRhnWDws5jUGN6ohz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="LLYCRhnWDws5jUGN6ohz-18" target="ud_qaL1iLHrHZvnpaBdS-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LLYCRhnWDws5jUGN6ohz-27" value="высадка окончена" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LLYCRhnWDws5jUGN6ohz-26">
+        <mxCell id="LLYCRhnWDws5jUGN6ohz-27" value="высадка окончена" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LLYCRhnWDws5jUGN6ohz-26" vertex="1" connectable="0">
           <mxGeometry x="-0.2341" y="-2" relative="1" as="geometry">
             <mxPoint x="47" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LLYCRhnWDws5jUGN6ohz-18" value="Высадка пассажиров" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="LLYCRhnWDws5jUGN6ohz-18" value="Высадка пассажиров" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-399" y="93" width="280" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LLYCRhnWDws5jUGN6ohz-19" value="&amp;nbsp; entry / Открыть двери&lt;br&gt;&amp;nbsp; do / Дождаться выхода пассажиров&lt;br&gt;&amp;nbsp; exit / Закрыть двери" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="LLYCRhnWDws5jUGN6ohz-18">
+        <mxCell id="LLYCRhnWDws5jUGN6ohz-19" value="&amp;nbsp; entry / Открыть двери&lt;br&gt;&amp;nbsp; do / Дождаться выхода пассажиров&lt;br&gt;&amp;nbsp; exit / Закрыть двери" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="LLYCRhnWDws5jUGN6ohz-18" vertex="1">
           <mxGeometry y="30" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LLYCRhnWDws5jUGN6ohz-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.494;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LLYCRhnWDws5jUGN6ohz-20" target="LLYCRhnWDws5jUGN6ohz-19">
+        <mxCell id="LLYCRhnWDws5jUGN6ohz-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.494;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LLYCRhnWDws5jUGN6ohz-20" target="LLYCRhnWDws5jUGN6ohz-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-260" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LLYCRhnWDws5jUGN6ohz-20" value="Прибытие на конечную точку" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LLYCRhnWDws5jUGN6ohz-20" value="Прибытие на конечную точку" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-330" y="272.5" width="138" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="LLYCRhnWDws5jUGN6ohz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LLYCRhnWDws5jUGN6ohz-4" target="LLYCRhnWDws5jUGN6ohz-20">
+        <mxCell id="LLYCRhnWDws5jUGN6ohz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LLYCRhnWDws5jUGN6ohz-4" target="LLYCRhnWDws5jUGN6ohz-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="10" y="304" />
@@ -255,8 +248,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LLYCRhnWDws5jUGN6ohz-33" value="Движение автобуса" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+        <mxCell id="LLYCRhnWDws5jUGN6ohz-33" value="Движение автобуса" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-420" y="40" width="820" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="O0DaFBBtMMYf6R2Q3__b-2" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1009" y="320" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
